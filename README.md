@@ -1,1 +1,1 @@
-# macd_buy_indicator
+# MACD Buy Indicator
